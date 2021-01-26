@@ -1,5 +1,10 @@
 #include <HCSR04.h>
+
+#ifdef ESP32
+#include <ESP32Servo.h>
+#else
 #include <Servo.h>
+#endif
 
 const int triggerPin = 13; 
 const int echoPin = 12;
