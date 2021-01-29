@@ -15,3 +15,6 @@ We have also developped the code to connect a Raspberry Pi to the IMU via I2C, a
 # References
 
 * https://github.com/asukiaaa/MPU9250_asukiaaa
+* [MPU-9250 Product Specification](https://invensense.tdk.com/wp-content/uploads/2015/02/PS-MPU-9250A-01-v1.1.pdf)
+* [MPU-9250 Register Map](https://cdn.sparkfun.com/assets/learn_tutorials/5/5/0/MPU-9250-Register-Map.pdf)
+* [ESP32 DevKitC pinout](https://components101.com/sites/default/files/component_pin/ESP32-Pinout.png)
